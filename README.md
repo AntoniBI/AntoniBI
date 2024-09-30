@@ -8,4 +8,9 @@ Soy estudiante de Big Data & Cloud en Edem, donde mi principal objetivo es apren
 
 📝 - *Python*
 
-Mis objetivos a largo plazo consisten en convertirme en un data engineer con capacidad de manejar la mayor parte de las herramientas y ser capaz de manejarme con una gran cantidad de datos.
+Mis objetivos a largo plazo consisten en convertirme en un data enginer con capacidad de manejar la mayor parte de las herramientas y ser capaz de manejarme con una gran cantidad de datos.
+
+Ademas cuento con mi perfil de [Linkedin][Perfil]
+
+[Perfil]:https://www.linkedin.com/in/antoniade/
+
