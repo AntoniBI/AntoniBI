@@ -14,3 +14,4 @@ Ademas cuento con mi perfil de [Linkedin][Perfil]
 
 [Perfil]:https://www.linkedin.com/in/antoniade/
 
+![texto alternativo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1maGVvZmcwODRsbnpmY2JzZGVwNGt3N21yaDV1dHNvMmJmdmNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
